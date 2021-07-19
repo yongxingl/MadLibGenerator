@@ -6,6 +6,4 @@
 
 •	Implemented those algorithms, ensured the capabilities of handling exceptions and created different short stories using test inputs by JavaScript; re-engineered the code slightly, such as the template of the story and the input types, to create other stories
 
-Technologies: JavaScript, HTML, CSS, Bootstrap
-Based on youtube JavaScript Tutorial Video
-
+Technologies: JavaScript, HTML, CSS, Bootstrap，youtube
